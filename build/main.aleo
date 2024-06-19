@@ -235,3 +235,5 @@ function make_move:
     ternary r107 1u8 r142 into r156;
     output r155 as Board.private;
     output r156 as u8.private;
+    output r158 as u8.private;
+    output r160 as u8.private;
